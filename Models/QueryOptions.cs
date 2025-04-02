@@ -5,7 +5,7 @@ namespace TequilasRestaurant.Models
     public class QueryOptions<T> where T : class
     {
         public Expression<Func<T, Object>> OrderBy { get; set; } = null;
-        public Expression<Func<T, Object>> Where { get; set; } = null;
+        public Expression<Func<T, bool>> Where { get; set; } = null;
 
         private string[] includes = Array.Empty<string>(); 
 
