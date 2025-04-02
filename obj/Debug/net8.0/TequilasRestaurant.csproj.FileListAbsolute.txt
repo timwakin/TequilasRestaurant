@@ -154,3 +154,4 @@ E:\Repos\Tequilas\TequilasRestaurant\obj\Debug\net8.0\refint\TequilasRestaurant.
 E:\Repos\Tequilas\TequilasRestaurant\obj\Debug\net8.0\TequilasRestaurant.pdb
 E:\Repos\Tequilas\TequilasRestaurant\obj\Debug\net8.0\TequilasRestaurant.genruntimeconfig.cache
 E:\Repos\Tequilas\TequilasRestaurant\obj\Debug\net8.0\ref\TequilasRestaurant.dll
+E:\Repos\Tequilas\TequilasRestaurant\obj\Debug\net8.0\TequilasRestaurant.sourcelink.json

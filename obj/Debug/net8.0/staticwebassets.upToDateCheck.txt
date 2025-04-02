@@ -1,5 +1,9 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\beeftacos.jpg
+wwwroot\images\chickentacos.jpg
+wwwroot\images\fishtacos.jpg
+wwwroot\images\veggietacos.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

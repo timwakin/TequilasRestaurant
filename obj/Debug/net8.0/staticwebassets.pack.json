@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\Repos\\Tequilas\\TequilasRestaurant\\wwwroot\\images\\beeftacos.jpg",
+      "PackagePath": "staticwebassets\\images\\beeftacos.jpg"
+    },
+    {
+      "Id": "E:\\Repos\\Tequilas\\TequilasRestaurant\\wwwroot\\images\\chickentacos.jpg",
+      "PackagePath": "staticwebassets\\images\\chickentacos.jpg"
+    },
+    {
+      "Id": "E:\\Repos\\Tequilas\\TequilasRestaurant\\wwwroot\\images\\fishtacos.jpg",
+      "PackagePath": "staticwebassets\\images\\fishtacos.jpg"
+    },
+    {
+      "Id": "E:\\Repos\\Tequilas\\TequilasRestaurant\\wwwroot\\images\\veggietacos.jpg",
+      "PackagePath": "staticwebassets\\images\\veggietacos.jpg"
+    },
+    {
       "Id": "E:\\Repos\\Tequilas\\TequilasRestaurant\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

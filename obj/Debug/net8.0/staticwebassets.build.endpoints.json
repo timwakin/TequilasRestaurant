@@ -2469,6 +2469,334 @@
       ]
     },
     {
+      "Route": "images/beeftacos.1htxu71jfp.jpg",
+      "AssetFile": "images/beeftacos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dT1kwHKrUO951c7nPOF2QJtnE3WzMrtsrJFvO4EtM5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 17:30:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1htxu71jfp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dT1kwHKrUO951c7nPOF2QJtnE3WzMrtsrJFvO4EtM5U="
+        },
+        {
+          "Name": "label",
+          "Value": "images/beeftacos.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/beeftacos.jpg",
+      "AssetFile": "images/beeftacos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dT1kwHKrUO951c7nPOF2QJtnE3WzMrtsrJFvO4EtM5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 17:30:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dT1kwHKrUO951c7nPOF2QJtnE3WzMrtsrJFvO4EtM5U="
+        }
+      ]
+    },
+    {
+      "Route": "images/chickentacos.jpg",
+      "AssetFile": "images/chickentacos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CX76VFksnI9i8EVSt2ig5aN85h3t6EteLRpwDOo9Bto=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 17:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CX76VFksnI9i8EVSt2ig5aN85h3t6EteLRpwDOo9Bto="
+        }
+      ]
+    },
+    {
+      "Route": "images/chickentacos.xufrdams9j.jpg",
+      "AssetFile": "images/chickentacos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CX76VFksnI9i8EVSt2ig5aN85h3t6EteLRpwDOo9Bto=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 17:31:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xufrdams9j"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CX76VFksnI9i8EVSt2ig5aN85h3t6EteLRpwDOo9Bto="
+        },
+        {
+          "Name": "label",
+          "Value": "images/chickentacos.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/fishtacos.ien8qzvnz4.jpg",
+      "AssetFile": "images/fishtacos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hmFtQCjkR+vrsUbOL+dNtg+3CRaTf6O09GwaYB4LPZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 17:31:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ien8qzvnz4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hmFtQCjkR+vrsUbOL+dNtg+3CRaTf6O09GwaYB4LPZk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/fishtacos.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/fishtacos.jpg",
+      "AssetFile": "images/fishtacos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hmFtQCjkR+vrsUbOL+dNtg+3CRaTf6O09GwaYB4LPZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 17:31:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hmFtQCjkR+vrsUbOL+dNtg+3CRaTf6O09GwaYB4LPZk="
+        }
+      ]
+    },
+    {
+      "Route": "images/veggietacos.9g86g8b0eq.jpg",
+      "AssetFile": "images/veggietacos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t6/wDb8uCECDhmQ8wdK3AjTCrdlxUjGzaaQ870O9RkE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 17:31:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9g86g8b0eq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t6/wDb8uCECDhmQ8wdK3AjTCrdlxUjGzaaQ870O9RkE="
+        },
+        {
+          "Name": "label",
+          "Value": "images/veggietacos.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/veggietacos.jpg",
+      "AssetFile": "images/veggietacos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t6/wDb8uCECDhmQ8wdK3AjTCrdlxUjGzaaQ870O9RkE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 17:31:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t6/wDb8uCECDhmQ8wdK3AjTCrdlxUjGzaaQ870O9RkE="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "js/site.js",
       "Selectors": [],
