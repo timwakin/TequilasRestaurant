@@ -22,5 +22,43 @@ namespace TequilasRestaurant.Controllers
         {
             return View(await ingredients.GetByIdAsync(id, new QueryOptions<Ingredient>() {Includes = "ProductIngredients.Product" })); 
         }
+
+        
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        //Ingredient/Create
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Create([Bind("IndregientId, Name")] Ingredient ingredient)
+        {
+            if (ModelState.IsValid)
+            {
+                ingredients.AddAsync(ingredient);
+                return RedirectToAction("Index");
+            }
+            return View(ingredient);
+        }
+
+        //Ingredient/Delete
+        [HttpGet]
+        public async Task<IActionResult> Delete(int id)
+        {
+            return View(await ingredients.GetByIdAsync(id, new QueryOptions<Ingredient> { Includes = "ProductIngredients.Product" })); 
+        }
+        
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(Ingredient ingredient)
+        {   
+            await ingredients.DeleteAsync(ingredient.IngredientId);
+            return RedirectToAction("Index");  
+        }
+
+
+
     }
 }
